@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/isla-nublar.json#start_Irish"
                 }],
          "type":"tilelayer",
          "visible":true,
