@@ -820,6 +820,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"IrishEmbassyText",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
