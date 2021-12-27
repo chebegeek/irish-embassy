@@ -74,12 +74,6 @@
                  "y":309.021601016518
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"qm66AmFOQ0f67tevxGsdp6KHJJR8qZgjRZRXPSseW2Fr0cq5Yq"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -795,7 +789,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/lobby\/islanooblar.json#start_Irish"
+                         "value":"lobby\/islanooblar.json#start_Irish"
                         }],
                  "type":"EXIT"
                 }, 
