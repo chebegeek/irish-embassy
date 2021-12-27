@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/islanooblar.json#start_Irish"
+                 "value":"world://lobby/islanooblar.json#start_Irish"
                 }],
          "type":"tilelayer",
          "visible":true,
