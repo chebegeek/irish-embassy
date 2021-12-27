@@ -785,12 +785,6 @@
          "tiles":[
                 {
                  "id":0,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"lobby\/islanooblar.json#start_Irish"
-                        }],
                  "type":"EXIT"
                 }, 
                 {
