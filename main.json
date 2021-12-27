@@ -789,12 +789,6 @@
                 }, 
                 {
                  "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"START"
                 }, 
                 {
@@ -813,12 +807,6 @@
                 }, 
                 {
                  "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"SILENT"
                 }, 
                 {
@@ -835,12 +823,6 @@
                 }, 
                 {
                  "id":8,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/"
-                        }],
                  "type":"URL"
                 }],
          "tilewidth":32
@@ -884,6 +866,33 @@
          "tiles":[
                 {
                  "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":3,
                  "properties":[
                         {
                          "name":"tilesetCopyright",
@@ -939,12 +948,6 @@
          "imagewidth":32,
          "margin":0,
          "name":"duckOutline",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":""
-                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
