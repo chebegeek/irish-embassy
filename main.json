@@ -221,12 +221,6 @@
          "id":5,
          "name":"dekoIncExit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
@@ -896,6 +890,16 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":""
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
