@@ -57,21 +57,15 @@
          "objects":[
                 {
                  "height":0,
-                 "id":2,
-                 "name":"",
-                 "point":true,
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":201.163646091085,
-                 "y":308.165585501237
-                }, 
-                {
-                 "height":0,
                  "id":7,
                  "name":"",
                  "point":true,
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"qm66AmFOQ0f67tevxGsdp6KHJJR8qZgjRZRXPSseW2Fr0cq5Yq"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -322,7 +316,7 @@
          "y":0
         }],
  "nextlayerid":23,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
