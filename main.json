@@ -863,43 +863,6 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":2,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":3,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":""
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -948,19 +911,15 @@
          "imagewidth":32,
          "margin":0,
          "name":"duckOutline",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
+		 "properties":[
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
-                         "value":""
-                        }]
-                }],
+                         "value":"CC0"
+                        }],
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
