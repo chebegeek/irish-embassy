@@ -958,7 +958,7 @@
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
-                         "value":"CC0"
+                         "value":""
                         }]
                 }],
          "tilewidth":32
